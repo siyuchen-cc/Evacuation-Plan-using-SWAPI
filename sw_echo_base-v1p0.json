@@ -1,0 +1,89 @@
+{
+  "url": "https://starwars.fandom.com/wiki/Echo_Base/Legends",
+  "name": "Echo Base",
+  "operational_status": "active",
+  "region": "Outer Rim Territories",
+  "sector": "Anoat sector",
+  "system": "Hoth system",
+  "planet": {
+    "url": "https://starwars.fandom.com/wiki/Hoth/Legends",
+    "name": "Hoth"
+  },
+  "facilities": [
+    "command center",
+    "hanger",
+    "medical lab",
+    "power generator"
+  ],
+  "garrison": {
+    "url": "https://starwars.fandom.com/wiki/Echo_Base/Legends/garrison",
+    "name": "Echo Base garrison",
+    "commander": {
+      "url": "https://starwars.fandom.com/wiki/Carlist_Rieekan/Legends",
+      "name": "Carlist Rieekan",
+      "height": 180,
+      "mass": "unknown",
+      "hair_color": "brown",
+      "skin_color": "fair",
+      "eye_color": "blue",
+      "birth_year": "47 BBY",
+      "gender": "male",
+      "homeworld": "https://swapi.py4e.com/api/planets/2/",
+      "species": [
+        "https://swapi.py4e.com/api/species/1/"
+      ]
+    },
+    "personnel": {
+      "military": 7500,
+      "medical": 350,
+      "droids": 120
+    }
+  },
+  "fixed_defenses": [
+    "theater shield",
+    "v-150 Planet Defender ion cannon",
+    "1.4 FD P-Tower anti-vehicle laser cannons",
+    "DF.9 anti-infantry laser cannons",
+    "trenches and weapons emplacements"
+  ],
+  "air_space_assets": [
+    {
+      "asset_class": "starfighter",
+      "model": null,
+      "num_available": 48
+    },
+    {
+      "asset_class": "assault starfighter",
+      "model": null,
+      "num_available": 12
+    },
+    {
+      "asset_class": "airspeeder",
+      "model": null,
+      "num_available": 12
+    },
+    {
+      "asset_class": "medium transport",
+      "model": null,
+      "num_available": 30
+    },
+    {
+      "asset_class": "light freighter",
+      "model": null,
+      "num_available": 1
+    }
+  ],
+  "evacuation_plan": {
+    "url": "https://starwars.fandom.com/wiki/Echo_Base/Legends/evac_plan",
+    "name": "Echo Base Evacuation Plan",
+    "classification": "Top Secret",
+    "year_era": "3 ABY",
+    "description": "Calculate percentage of garrison that can be evacuated in one lift given available transport assets and overload capability. Assign crews and passengers as well as escort craft.",
+    "garrison_personnel_count": null,
+    "num_available_transports": null,
+    "passenger_overload_multiplier": 3,
+    "max_passenger_overload_capacity": null,
+    "transport_passenger_assignments": [],
+    "transport_escorts": []
+  }
+}

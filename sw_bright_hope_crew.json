@@ -1,0 +1,35 @@
+{
+    "pilot": {
+        "url": "https://swapi.py4e.com/people/1000/",
+        "name": "Araly Denau",
+        "birth_year": "25BBY",
+        "height": "178",
+        "mass": "63",
+        "homeworld": "https://swapi.py4e.com/api/planets/22/",
+        "species": [
+        "https://swapi.py4e.com/api/species/1/"
+        ]
+    },
+    "co-pilot": {
+        "url": "https://swapi.py4e.com/people/1001/",
+        "name": "Teckla Lerga",
+        "birth_year": "20BBY",
+        "height": "171",
+        "mass": "66",
+        "homeworld": "https://swapi.py4e.com/api/planets/8/",
+        "species": [
+        "https://swapi.py4e.com/api/species/1/"
+        ]
+    },
+    "navigator": {
+        "url": "https://swapi.py4e.com/people/1002/",
+        "name": "Rego Syko",
+        "birth_year": "22BBY",
+        "height": "180",
+        "mass": "90",
+        "homeworld": "https://swapi.py4e.com/api/planets/2/",
+        "species": [
+        "https://swapi.py4e.com/api/species/1/"
+        ]
+    }
+}
